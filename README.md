@@ -3,6 +3,7 @@ Modelo de datos público propuesto por la comunidad de *Datos en Español*
 
 ## Introducción
 OmniGov Datamodel (en adelante OGDM) es un conjunto de entidades que representan conceptos generalmente utilizados por las organizaciones para representar, procesar y consumir los datos. 
+
 Es un producto en permanente evolución, y recopila el conocimiento y la experiencia de los miembros de la comunidad de *Datos en Español* en el uso de mejores prácticas y técnicas adecuadas de modelado de datos, probadas en soluciones reales para diversas industrias y dominios.
 
 ## Objetivos
